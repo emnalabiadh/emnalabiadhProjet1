@@ -1,0 +1,73 @@
+
+body{
+	
+ background-image: url("http://photos.demandstudios.com/getty/article/171/54/86521815.jpg");
+ background-size:1600px 1100px;
+ background-repeat:no-repeat;
+ background-attachment:fixed;
+ background-position:center;
+ background-
+ 
+}
+
+.image{  
+ height:100px; 
+ width:100;
+ }
+
+  .image{  
+	border:1px solid;
+    border-radius:4px;
+    padding:10px;
+    width:50px;
+    height:50px
+} 
+
+#pizza{
+	width:120px;
+	float:center;
+	text-align:center;
+    margin:90px 10px 0px 700px;
+}
+
+
+
+
+
+div.a{
+	 font-size:50px;
+}
+
+.btn-group button {
+  background-color: white;
+  opacity: 0.5;
+ 
+  color:black; /* White text */
+  padding: 10px 10px; /* Some padding */
+ 
+  width: 10%; /* Set a width if needed */
+  display: block; /* Make the buttons appear below each other */
+}
+
+.btn-group button:not(:last-child) {
+  border-bottom: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+p{
+	font: small-caps;
+	color: red;
+	font-family:Monospace
+	font-size:60px;
+}
+h1{
+	font-size: 90px;
+	font-family:Brush Script MT
+}
+
+
+
+
